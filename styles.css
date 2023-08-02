@@ -1,0 +1,110 @@
+.title-l1 {
+  font-family: "Courier New", monospace;
+  color: crimson;
+  text-align: center;
+  font-size: 40px;
+  text-shadow: 2px 2px 0px white;
+}
+.title-l2 {
+  font-family: "Courier New", monospace;
+  color: white;
+  text-align: center;
+  font-size: 60px;
+  text-shadow: 3px 3px 0px black;
+}
+.title-l3 {
+  font-family: "Courier New", monospace;
+  color: darkblue;
+  text-align: center;
+  font-size: 40px;
+  text-shadow: 2px 2px 0px white;
+}
+
+.flag {
+  image-align: center;
+  width: 500px;
+  height: 250px;
+
+  display: block;
+  margin: auto;
+}
+
+.question {
+  text-align: center;
+  font-family: "Courier New", monospace;
+}
+
+p {
+  font-size: 20px;
+  font-family: "Courier New", monospace;
+  color: black;
+  text-align: left;
+  margin-left: 100px;
+}
+
+p1 {
+  font-size: 25px;
+  font-family: "Courier New", monospace;
+  text-align: left;
+  margin-left: 320px;
+  font-weight: bold;
+}
+
+p2 {
+  font-size: 25px;
+  font-family: "Courier New", monospace;
+  text-align: left;
+  margin-left: 300px;
+  font-weight: bold;
+}
+
+.sky {
+  opacity: 0.57;
+  img-align: top;
+}
+
+.krka {
+  image-align: left;
+  width: 500px;
+  height: 250px;
+
+  display: block;
+  margin: 0px 100px;
+}
+.plitvice {
+  image-align: left;
+  width: 500px;
+  height: 250px;
+
+  display: block;
+  margin: 0px 100px;
+}
+
+.sky {
+  background-image: url(https://lp-cms-production.imgix.net/2021-06/shutterstockRF_662032261.jpg);
+  position: absolute;
+  z-index: -10;
+}
+
+.image {
+  image-align: center;
+  width: 550px;
+  margin: 20px 50px 3000px 800px;
+  position: absolute;
+}
+
+.container {
+  display: flex;
+}
+
+p3 {
+  font-size: 50px;
+  font-family: Copperplate, Papyrus, fantasy;
+  color: white;
+  text-shadow: 4px 1px 0px black;
+  margin: 95px;
+  border: 9px solid red;
+  box: red;
+}
+.book {
+}
